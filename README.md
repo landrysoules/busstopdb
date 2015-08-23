@@ -1,8 +1,8 @@
 # Busstopdb
 
-BusStopDB is the project in charge of providing data for BusStop. It's a rewriting in Ruby of the original Python program.
+[![Build Status](https://semaphoreci.com/api/v1/projects/5a858818-1760-4aa6-a168-62b2f26abef8/519648/badge.svg)](https://semaphoreci.com/landry/busstopdb)   
 
-TODO: Delete this and the text above, and describe your gem
+BusStopDB is the project in charge of providing data for BusStop. It's a rewriting in Ruby of the original Python program.
 
 ## Installation
 
