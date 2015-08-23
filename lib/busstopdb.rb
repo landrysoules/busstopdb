@@ -1,5 +1,6 @@
 require "busstopdb/version"
+require 'logger'
 
 module Busstopdb
-  # Your code goes here...
+  Log = Logger.new(STDOUT)
 end
