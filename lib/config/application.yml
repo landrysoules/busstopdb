@@ -1,0 +1,3 @@
+urls:
+    - day_lines: http://www.ratp.fr/horaires/fr/ratp/bus
+    - night_lines: http://www.ratp.fr/horaires/fr/ratp/noctilien

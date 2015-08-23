@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in busstopdb.gemspec
-gemspec
+gem 'nokogiri'
+gem 'couchrest'
+
+group :test do
+  gem 'rspec'
+end

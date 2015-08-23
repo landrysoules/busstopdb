@@ -5,7 +5,7 @@ require 'busstopdb/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "busstopdb"
-  spec.version       = Busstopdb::VERSION
+  spec.version       = BusStopDB::VERSION
   spec.authors       = ["Landry Soules"]
   spec.email         = ["landry.soules@gmail.com"]
 
